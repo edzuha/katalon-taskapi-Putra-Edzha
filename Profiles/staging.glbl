@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>staging</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>link</description>
+      <initValue>'https://restful-booker.herokuapp.com'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>email</description>
+      <initValue>'admin'</initValue>
+      <name>username_admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>password</description>
+      <initValue>'password123'</initValue>
+      <name>password_123</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'b20c84a0dc5717c'</initValue>
+      <name>refresh_token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1077</initValue>
+      <name>refresh_ID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
